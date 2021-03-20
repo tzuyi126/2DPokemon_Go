@@ -3,18 +3,18 @@
 ### Introduction to Game Programming (by professor Hung-Kuo Chu)
 ##### A game designed by Unity2D.
 
-![image](menu.jpg)
+<img src="menu.jpg" alt="Menu" width="500"/>
 
 ## Introduction
 #### It's a simple version of Pokemon Go!
 
 ## How to Play
 #### Use mouse to aim the Pokemon and click to shoot the Pokeball.
-![image](guide.jpg)
+<img src="guide.jpg" alt="Guide" width="500"/>
 
 #### Download whole hw3_exe folder to play the game!
 
-![image](game1.jpg)
-![image](game2.jpg)
-![image](game3.jpg)
-![image](end.jpg)
+<img src="game1.jpg" alt="Game Scene" width="500"/>
+<img src="game2.jpg" alt="Game Scene" width="500"/>
+<img src="game3.jpg" alt="Game Scene" width="500"/>
+<img src="end.jpg" alt="End Scene" width="500"/>
